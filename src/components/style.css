@@ -1,0 +1,51 @@
+#header {
+    height: 100vh;
+    background-color: red;
+    background-image: url('./../assets/images/bg/main.jpg');
+    background-size: cover;
+}
+
+.caption {
+    height: 100vh;
+    color: burlywood;
+    font-size: 50px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-weight: bold;
+}
+
+#superhero {
+    height: auto;
+    background-image: url('./../assets/images/bg/spiderman.jpg');
+    background-size: cover;
+
+
+}
+
+#trending {
+    height: auto;
+    background-image: url('./../assets/images/bg/scifi.jpg');
+    background-size: cover;
+}
+
+#p {
+
+    height: auto;
+    max-height: 500px;
+    width: auto;
+
+}
+
+#footer {
+    background-image: url('../assets/images/bg/xxi.png') rounded;
+
+}
+
+#p {
+    height: 600px;
+}
+
+.imgcard {
+    height: 500px;
+}
